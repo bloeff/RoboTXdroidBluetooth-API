@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RoboTXdroid</string>  
+    <string name="menu_settings">Tutorial</string>
+    <string name="title_activity_main">RoboTXdroid</string>
+    <string name="st_tVMain">Bluetooth-Geräte</string>
+    <string name="st_aDMainTitle">"Geräte sind nicht gepaart."</string>
+    <string name="st_aDMainMessage">"Möchten Sie die Geräte paaren?"</string>
+    <string name="st_tutMainTitle">"Tutorial"</string>
+    <string name="st_tutMainMessage">"Diese App ermöglicht es Modelle der fischertechnik Computing Serie zu steuern.\n\nHierbei ist es wichtig, dass die Motoren M1 und M2 wie bei dem Gabelstaplermodell aus dem ROBO TX Training Lab Baukasten angeschlossen sind. Über die Hoch-/ Runtertasten lassen sich die Ausgänge O5 und O6 ansteuern. Die Ausgänge O7 und O8 werden geschaltet, sobald eine Bluetooth-Verbindung zum Modell hergestellt ist."</string>
+    <string name="st_toMainBtDisabled">"Blueotooth ist nicht aktiviert."</string>
+    <string name="st_tVMainPB">"Scannen..."</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>
